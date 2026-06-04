@@ -1,5 +1,4 @@
 package com.example.meetings.controller;
-
 import com.example.meetings.service.UserService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
