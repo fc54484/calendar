@@ -65,7 +65,7 @@ class RealDataTest {
         assertEquals(1, result.size());
     }
 
-    // over lapping 
+    // overlapping 
     @Test
     void overlappingTest() {
         User u = userRepository.save(new User("Oly", "123@gmail.com", "pwd"));
